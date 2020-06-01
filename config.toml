@@ -1,4 +1,4 @@
-baseurl = "http://pysaurav.github.io/"
+baseurl = "/"
 title = "HOME"
 publishDir = "pysaurav.github.io"
 theme = "hugo-coder"
