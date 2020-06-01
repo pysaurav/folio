@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "HOME"
-publishDir = "public
+publishDir = "public"
 theme = "hugo-coder"
 
 languagecode = "en"
