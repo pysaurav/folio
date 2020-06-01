@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "HOME"
-publishDir = "pysaurav.github.io"
+publishDir = "public
 theme = "hugo-coder"
 
 languagecode = "en"
