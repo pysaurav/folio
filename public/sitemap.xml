@@ -97,6 +97,10 @@
   </url>
   
   <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
   </url>
   
@@ -122,10 +126,6 @@
   
   <url>
     <loc>/snippets/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
   </url>
   
 </urlset>
