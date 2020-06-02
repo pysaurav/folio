@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HOME</title>
+    <link>saauraav.com.np/posts/</link>
+    <description>Recent content in Posts on HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="saauraav.com.np/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KNN Classifier Implementing from Scratch</title>
+      <link>saauraav.com.np/posts/knn-classifier-from-scratch/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>saauraav.com.np/posts/knn-classifier-from-scratch/</guid>
+      <description>KNN is a supervised algorithm that classifies new cases based on similarity measure from its neighbors.
+Please refer the notebook below for its detailed implementation and understanding from scratch.  </description>
+    </item>
+    
+    <item>
+      <title>Configuring virtualenv and virtualenvwrapper in ubuntu</title>
+      <link>saauraav.com.np/posts/virtualenv-virtualenvwrapper-in-ubuntu/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>saauraav.com.np/posts/virtualenv-virtualenvwrapper-in-ubuntu/</guid>
+      <description>We all must have faced the situation where version of our packages don&amp;rsquo;t match and takes up hours of our time to get solved. A virtual Environment is an isolates working environment of a Python project so that other projects aren&amp;rsquo;t hampered.
+So, lets start the configuration with virtualenv. To install it via pip
+$ pip install virtualenv See, it is as simple as that. Now, you can work in an isolated python3.</description>
+    </item>
+    
+    <item>
+      <title>Unfolding blockchain’s social aspects</title>
+      <link>saauraav.com.np/posts/unfolding-blockchains-social-aspects/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>saauraav.com.np/posts/unfolding-blockchains-social-aspects/</guid>
+      <description>With Facebook’s Libra, the crypto-community around the globe has yet more things to talk about, if not be hopeful. The crypto-currencies as well as its underlying blockchain technology together is slowly yet steadily penetrating human life, at least in terms of things to keep an eye on. The same way e-commerce websites were making buzz in the 90’s. If you don’t know already, blockchain is just an open, distributed ledger that hosts growing list of records linked together in such a way that they are append-only and can’t be modified or tampered with.</description>
+    </item>
+    
+  </channel>
+</rss>
