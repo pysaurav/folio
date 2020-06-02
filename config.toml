@@ -1,4 +1,4 @@
-baseurl = "saauraav.com.np/"
+baseurl = "/"
 title = "HOME"
 publishDir = "public"
 theme = "hugo-coder"
