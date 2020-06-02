@@ -119,7 +119,7 @@ disqusShortname = "Saurav"
 
             [[languages.en.menu.main]]
             name = "Contact"
-            weight = 5
+            weight = 4
             url = "contact/"
 
 
