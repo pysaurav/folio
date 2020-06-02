@@ -1,4 +1,4 @@
-baseurl = "https://saauraav.com.np/"
+baseurl = "saauraav.com.np/"
 title = "HOME"
 publishDir = "public"
 theme = "hugo-coder"
@@ -40,7 +40,7 @@ disqusShortname = "Saurav"
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "light"
+    colorscheme = "auto"
 
     # Series see also post count
     maxSeeAlsoItems = 5
