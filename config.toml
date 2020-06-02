@@ -32,8 +32,8 @@ disqusShortname = "Saurav"
     since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
-
+    #commit = "https://github.com/luizdepra/hugo-coder/tree/"
+#https://webapps.stackexchange.com/questions/30495/how-to-delete-a-file-and-folder-from-github-com-repository-using-github-coms-we#:~:text=8%20Answers&text=You%20can%20delete%20a%20file,delete%20every%20file%20inside%20it.&text=I've%20found%20that%20deleting,will%20automatically%20delete%20the%20folder.
     rtl = false
 
     # Specify light/dark colorscheme
