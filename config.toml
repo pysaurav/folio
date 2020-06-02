@@ -19,15 +19,15 @@ disqusShortname = "Saurav"
     author = "Saurav Pandey"
     description = "Saurav's personal website"
     keywords = "blog,developer,personal"
-    info = ""
+    info = "Data Science Professional"
     avatarurl = "images/pp.png"
     #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    footercontent = "Express Yourself!"
 
     dateformat = "January 2, 2006"
 
     hideFooter = false
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
     since = 2019
 
@@ -116,7 +116,7 @@ disqusShortname = "Saurav"
             [[languages.en.menu.main]]
             name = "Papers"
             weight = 3
-            url = "projects/"
+            url = "about/"
 
             [[languages.en.menu.main]]
             name = "Contact"
