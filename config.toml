@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://saauraav.com.np/"
 title = "HOME"
 publishDir = "public"
 theme = "hugo-coder"
