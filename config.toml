@@ -112,10 +112,7 @@ disqusShortname = "Saurav"
             weight = 2
             url = "posts/"
 
-            [[languages.en.menu.main]]
-            name = "Papers"
-            weight = 3
-            url = "about/"
+
 
             [[languages.en.menu.main]]
             name = "Contact"
