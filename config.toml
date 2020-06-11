@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "HOME"
+title = "Saurav"
 publishDir = "public"
 theme = "hugo-coder"
 
