@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HOME</title>
+    <title>Saurav</title>
     <link>/</link>
-    <description>Recent content on HOME</description>
+    <description>Recent content on Saurav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
@@ -30,6 +30,15 @@ Please refer the notebook below for its detailed implementation and understandin
       <description>We all must have faced the situation where version of our packages don&amp;rsquo;t match and takes up hours of our time to get solved. A virtual Environment is an isolates working environment of a Python project so that other projects aren&amp;rsquo;t hampered.
 So, lets start the configuration with virtualenv. To install it via pip
 $ pip install virtualenv See, it is as simple as that. Now, you can work in an isolated python3.</description>
+    </item>
+    
+    <item>
+      <title>Introduction- Random column</title>
+      <link>/random/introduction-to-the-column/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/random/introduction-to-the-column/</guid>
+      <description>This post marks the initiation of the random column. I am starting this column to share interesting concepts, ideas and mostly my perceptions towards things. This will be a weekly column.</description>
     </item>
     
     <item>
