@@ -112,7 +112,10 @@ disqusShortname = "Saurav"
             weight = 2
             url = "posts/"
 
-
+            [[languages.en.menu.main]]
+            name = "Random"
+            weight = 3
+            url = "random/"
 
             [[languages.en.menu.main]]
             name = "Contact"
