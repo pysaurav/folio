@@ -2,7 +2,6 @@
 date = "2020-07-17"
 title = "Nikola Tesla and Wireless Electricity"
 tags = ["tesla", "nikola", "wireless","electricity","wiet"]
-categories = []
 +++
 
 "Why dont we have wireless electricity yet?", the question bother me now.

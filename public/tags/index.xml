@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Saurav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>da vinci</title>
+      <link>/tags/da-vinci/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/da-vinci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nikola</title>
+      <link>/tags/nikola/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nikola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sleep</title>
+      <link>/tags/sleep/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tesla</title>
+      <link>/tags/tesla/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tesla/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>electricity</title>
@@ -17,24 +53,6 @@
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/electricity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nikola</title>
-      <link>/tags/nikola/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nikola/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tesla</title>
-      <link>/tags/tesla/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tesla/</guid>
       <description></description>
     </item>
     
