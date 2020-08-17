@@ -1,6 +1,6 @@
 +++ 
 date = "2020-08-16"
-title = "Polypasic Sleep Cycle"
+title = "Polyphasic Sleep Cycle"
 tags = ["tesla", "nikola", "da vinci","sleep"]
 +++
 
