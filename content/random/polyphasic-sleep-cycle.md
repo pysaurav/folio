@@ -12,10 +12,11 @@ Polyphasic sleep is about segmenting the sleep cycle into multiple phases. Histo
 
 ![Sleep Cycle](/library/untitled.png)
 
-Biphasic: Consists of a split sleep schedule with two sessions. Often a five to six hour “core sleep” and then a one and a half hour nap.
-Dymaxion: Commonly consists of four 30-minute naps during the day. Two hours of sleep total.
-Uberman: Usually consists of six to eight 20-minute naps during the day. Generally, two hours of sleep total.
-Everyman: Commonly consists of four sleep sessions. Often a three to four hour core sleep followed by three naps throughout the day.
+* Biphasic: Consists of a split sleep schedule with two sessions. Often a five to six hour “core sleep” and then a one and a half hour nap.
+* Dymaxion: Commonly consists of four 30-minute naps during the day. Two hours of sleep total.
+* Uberman: Usually consists of six to eight 20-minute naps during the day. Generally, two hours of sleep total.
+* Everyman: Commonly consists of four sleep sessions. Often a three to four hour core sleep followed by three naps throughout the day.
+
 Polyphasic sleep is rumored to have fueled some great minds human civilization has ever witnessed. Most notably, Leonardo da Vinci and Nikola Tesla are supposed to have adopted the polyphasic Ubermann sleep cycles, requiring only 2 hours of sleep a day. 
 
 References

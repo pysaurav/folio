@@ -108,12 +108,12 @@ disqusShortname = "Saurav"
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "DataScience"
             weight = 2
             url = "posts/"
 
             [[languages.en.menu.main]]
-            name = "Random"
+            name = "Blog"
             weight = 3
             url = "random/"
 
