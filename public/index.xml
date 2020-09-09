@@ -6,10 +6,20 @@
     <description>Recent content on Saurav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Term Paper: Impact of evolving Artificial Intelligence on the Human Race</title>
+      <link>/posts/evolving-ai-on-human-race/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/evolving-ai-on-human-race/</guid>
+      <description>Impact of evolving Artificial Intelligence on the future of Human Race   Saurav Pandey
+September 4, 2020  Abstract Artificial Intelligence is evolving rapidly and it is bound to impact the way we humans live. This paper attempts to highlight our general perception towards Artificial Intelligence and how it is changing with time. It investigates the history, status quo and future of artificial intelligence and pinpoints its association with human life.</description>
+    </item>
     
     <item>
       <title>Pandas Optimized Code Snippets</title>
