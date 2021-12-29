@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: saauraav.com.np
+Token: 06ad250a1e044de5069f6b22b102992e3f819352b0a8be34ed352ec06e3c55d4
